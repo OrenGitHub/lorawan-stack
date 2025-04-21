@@ -3,7 +3,7 @@ name: dhscanner-sast
 on:
   push:
     branches:
-      - v3.34.1
+      - v3.34
 
 jobs:
   run-dhscanner:
